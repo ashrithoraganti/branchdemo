@@ -1,2 +1,6 @@
 this file1 is created by main branch in github
+
 this file is modified by branch2 at local repository
+
+this file is modified by main in local repository
+
